@@ -1,3 +1,14 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{F8F73684-3B4C-4637-B80B-C5CAE791DA5B}|Default">
+  <MonoDevelop.Ide.ItemProperties.soh-ken PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="host.json">
+    <Files>
+      <File FileName="host.json" Line="2" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>
