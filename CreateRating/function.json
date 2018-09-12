@@ -1,0 +1,25 @@
+{
+  "bindings": [
+    {
+      "authLevel": "function",
+      "type": "httpTrigger",
+      "direction": "in",
+      "name": "req"
+    },
+    {
+      "type": "http",
+      "direction": "out",
+      "name": "res"
+    },
+    {
+      "type": "documentDB",
+      "name": "newRating",
+      "databaseName": "bfyoc_master",
+      "collectionName": "product_rating",
+      "createIfNotExists": false,
+      "connection": "bfyocnew_DOCUMENTDB",
+      "direction": "out"
+    }
+  ],
+  "disabled": false
+}

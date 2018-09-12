@@ -1,0 +1,20 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "4a8ca6a8-1f39-4b12-8552-0201eb7154a0",
+    "GetRating_ConnectionString": "AccountEndpoint=https://bfyocnew.documents.azure.com:443/;AccountKey=xekkCGSUvnNF3wWc6jUt9TGXL0lYwal95VeMZx2JIpBGBGF1ArC5QXIs9dCVowtuI5vHeEASs0jek6A82oyGnw==;",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=servelesscontainer;AccountKey=iFqbY/nkTdOyhDsC8fo169xJpWCuJI+BbsuDfmP4g8n1Q4VB+SIj5kzKZXbInqw2Ctodo4IfMPpQQEreveTzsg==",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=servelesscontainer;AccountKey=iFqbY/nkTdOyhDsC8fo169xJpWCuJI+BbsuDfmP4g8n1Q4VB+SIj5kzKZXbInqw2Ctodo4IfMPpQQEreveTzsg==",
+    "WEBSITE_CONTENTSHARE": "soh-kenab18",
+    "bfyocnew_DOCUMENTDB": "AccountEndpoint=https://bfyocnew.documents.azure.com:443/;AccountKey=xekkCGSUvnNF3wWc6jUt9TGXL0lYwal95VeMZx2JIpBGBGF1ArC5QXIs9dCVowtuI5vHeEASs0jek6A82oyGnw==;",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=servelesscontainer;AccountKey=iFqbY/nkTdOyhDsC8fo169xJpWCuJI+BbsuDfmP4g8n1Q4VB+SIj5kzKZXbInqw2Ctodo4IfMPpQQEreveTzsg==",
+    "bfyoc_DOCUMENTDB": "AccountEndpoint=https://bfyoc.documents.azure.com:443/;AccountKey=o1GOkQfSF9ajF58I4r53zQqFJkOVO8vUGiGPTruuQfQXGRjSD6LnNYOYq290fiOGA9r3DdvjVPoeXzQp6O1xMw==;",
+    "WEBSITE_SITE_NAME": "soh-ken",
+    "soh-ken_DOCUMENTDB": "AccountEndpoint=https://soh-ken.documents.azure.com:443/;AccountKey=0YYThTiVLbC1VG4aFVXxff8NupKYdxd3bWX7C6lKudxwuY3kVGObdIZKwzakJ4PAreHnCIUvnevZdnqID9HCpQ==;"
+  }
+}

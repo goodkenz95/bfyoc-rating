@@ -1,0 +1,25 @@
+{
+  "bindings": [
+    {
+      "authLevel": "function",
+      "type": "httpTrigger",
+      "direction": "in",
+      "name": "req"
+    },
+    {
+      "type": "http",
+      "direction": "out",
+      "name": "res"
+    },
+    {
+      "type": "documentDB",
+      "name": "ratings",
+      "databaseName": "bfyoc_master",
+      "collectionName": "product_rating",
+      "connection": "bfyocnew_DOCUMENTDB",
+      "sqlQuery": "SELECT * from product_rating where product_rating.productId = {productId}",
+      "direction": "in"
+    }
+  ],
+  "disabled": false
+}
